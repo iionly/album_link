@@ -5,7 +5,5 @@
  */
 
 return array(
-
-'album_link:album_link' => '%s\'s photo albums'
-
+	'album_link:album_link' => '%s\'s photo albums'
 );

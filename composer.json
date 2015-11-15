@@ -1,0 +1,24 @@
+{
+    "name": "iionly/album_link",
+    "description": "Adds a link to the user icon hover menu leading to the user's Tidypics photo albums.",
+    "type": "elgg-plugin",
+    "keywords": [
+        "elgg",
+        "plugin"
+    ],
+    "homepage": "https://github.com/iionly/album_link",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "iionly",
+            "homepage": "https://github.com/iionly",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+            "issues": "https://github.com/iionly/album_link/issues"
+    },
+    "require": {
+        "composer/installers": ">=1.0.8"
+    }
+}
