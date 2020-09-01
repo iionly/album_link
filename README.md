@@ -1,8 +1,8 @@
-Album Link plugin for Elgg 1.9 - 1.12 and Elgg 2.X
-==================================================
+Album Link plugin for Elgg 3.0 and newer Elgg 3.X
+=================================================
 
-Latest Version: 1.9.1  
-Released: 2015-11-15  
+Latest Version: 3.0.0  
+Released: 2020-08-24  
 Contact: iionly@gmx.de  
 License: GNU General Public License version 2  
 Copyright: (c) iionly 2013

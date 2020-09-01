@@ -1,7 +1,7 @@
 {
     "name": "iionly/album_link",
     "description": "Adds a link to the user icon hover menu leading to the user's Tidypics photo albums.",
-    "type": "elgg-plugin",
+    "type": "elgg-plugin-only",
     "keywords": [
         "elgg",
         "plugin"
