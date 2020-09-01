@@ -1,5 +1,11 @@
 <?php
 
 return [
-	'bootstrap' => \AlbumLink\AlbumLinkBootstrap::class,
+	'hooks' => [
+		'register' => [
+			'menu:user_hover' => [
+				'\AlbumLink\AlbumLinkHooks::album_link_hover_menu' => [],
+			],
+		],
+	],
 ];
