@@ -12,7 +12,7 @@ class AlbumLinkHooks {
 			$menu_options = [
 				'name' => 'album_link_hover',
 				'text' => elgg_echo('album_link:album_link'),
-				'icon' => 'file-image-o',
+				'icon' => 'images',
 				'href' => elgg_get_site_url() . "photos/owner/" . $user->username,
 			];
 			$menu[] = \ElggMenuItem::factory($menu_options);
