@@ -1,6 +1,12 @@
 Changelog
 =========
 
+4.0.1
+-----
+
+- Clarification of license in composer.json.
+
+
 4.0.0
 -----
 
